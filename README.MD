@@ -1,6 +1,6 @@
-#Automation Testing Framework using Python and Playwright
-
+# Automation Testing Framework using Python and Playwright
 ## Design pattern POM - Page Object Model
+
 
 ## Dependencies
 ### Testing Framework:   Python          3.11.12 and  Playwright  0.4.4
