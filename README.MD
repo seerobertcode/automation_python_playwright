@@ -13,3 +13,7 @@
 ### pip install pytest
 ### pip install pytest-playwright
 ### pip install allure-pytest
+### pip install python-dotenv
+
+## Run Tests
+### python -m pytest -s tests --headed
